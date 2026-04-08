@@ -1,2 +1,3 @@
-# Force-Plate-Percentile
-Interactive Shiny app representing various CMJ and SJ force plate metric percentiles from 200 pitchers training at Kinetic Performance Institute. 
+ Force Plate Percentile Shiny App
+ 
+Interactive Shiny app representing various CMJ and SJ force plate metric percentiles from 200 pitchers training at Kinetic Performance Institute. Made for my CMSC205 course, this app aims to represent the percentile rankings of specific force-plate metrics, as well as mound velocity, to better understand jump profiles, strength deficiencies, and training outcomes. Both counter-movement and squat jump tabs are available, with the key metrics used based on the current literature in correlation to velocity. My first crack at a shiny app, I hope to expand on this viz in the future.
